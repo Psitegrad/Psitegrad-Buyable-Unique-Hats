@@ -23,7 +23,7 @@ Modded
 
 ### Compatibility
 
-Will conflict with any mods that edit the DT_ItemInfomation file.  
+Will conflict with any mods that edit the DT_ItemInfomation file.
 
 
 ### How to Install
