@@ -1,4 +1,4 @@
-# Psitegrad-Buyable-Unique-Hats
+# Psitegrad's Buyable Unique Hats
 
 Ever misplaced your precious one of kind hat that you received after a quest ?  
 Now you can buy it again !  
@@ -18,7 +18,7 @@ Modded
 
 
 ### Download
-[https://github.com/Psitegrad/Psitegrad-Buyable-Unique-Hat/tree/main](https://github.com/Psitegrad/Psitegrad-Buyable-Unique-Hat/releases/tag/v1.0)
+[https://github.com/Psitegrad/Psitegrad-Buyable-Unique-Hat/tree/main](https://github.com/Psitegrad/Psitegrad-Buyable-Unique-Hats/releases)
 
 
 ### Compatibility
